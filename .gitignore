@@ -43,7 +43,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-*/StarterContent/*
+*/Content/StarterContent/*
 # Precompiled Assets
 */SourceArt/**/*.png
 */SourceArt/**/*.tga
